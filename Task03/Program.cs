@@ -16,3 +16,19 @@ double n = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
 
 Console.Write("Расстояние равно ");
 Console.WriteLine(n);
+
+
+// Второй вариант решения
+
+//Console.Clear();
+//Console.WriteLine("Введите A(x, y)");
+//Console.Write("x1: ");
+//int x1 = int.Parse(Console.ReadLine());
+//Console.Write("y1: ");
+//int y1 = int.Parse(Console.ReadLine());
+//Console.WriteLine("Введите B(x, y)");
+//Console.Write("x2: ");
+//int x2 = int.Parse(Console.ReadLine());
+//Console.Write(" y2: ");
+//int y2 = int.Parse(Console.ReadLine());
+//Console.WriteLine(Math.Sqrt((x2 - x1)*(x2 - x1) + (y2 - y1)*(y2 - y1)));
